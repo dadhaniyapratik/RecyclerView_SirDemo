@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecycleViewsDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_vertical_recycleview">VerticalRecycleviewActivity</string>
+    <string name="title_activity_horizontal_recycleview">HorizontalRecycleviewActivity</string>
+    <string name="title_activity_grid_recycle_view">GridRecycleViewActivity</string>
+</resources>
